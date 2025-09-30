@@ -1,0 +1,2 @@
+
+ERROR:root:Failed to submit complaint: Error binding parameter 8: type 'decimal.Decimal' is not supported
